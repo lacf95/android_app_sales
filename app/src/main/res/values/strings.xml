@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ProyectoIntegrador</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_email_hint">ejemplo@dominio.com</string>
+    <string name="login_password_hint">contraseña</string>
+    <string name="login_singup">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="login_login">Iniciar sesión</string>
+
+    <string name="sign_email">Correo electrónico</string>
+    <string name="sign_password">Contraseña</string>
+    <string name="sign_firstname">Nombre(s)</string>
+    <string name="sign_lastname">Apellido(s)</string>
+    <string name="sign_phone">Número telefónico</string>
+    <string name="sign_email_hint">ejemplo@dominio.com</string>
+    <string name="sign_password_hint">contraseña</string>
+    <string name="sign_firstname_hint">Dámaso</string>
+    <string name="sign_lastname_hint">Pérez Prado</string>
+    <string name="sign_phone_hint">312 123 4444</string>
+    <string name="sign_sign">Registrarme</string>
+
+    <string name="clienteadd_name">Nombre completo</string>
+    <string name="clienteadd_email">Correo electrónico</string>
+    <string name="clienteadd_phone">Número telefónico</string>
+    <string name="clienteadd_address">Domicilio</string>
+    <string name="clienteadd_name_hint">Dámaso Pérez Prado</string>
+    <string name="clienteadd_email_hint">ejemplo@dominio.com</string>
+    <string name="clienteadd_phone_hint">312 123 4444</string>
+    <string name="clienteadd_address_hint">Calle Principal, 10. Colonia Principal</string>
+    <string name="clienteadd_add">Añadir</string>
+    
+    <string name="templatecliente_name">Nombre</string>
+    <string name="templatecliente_email">Correo electrónico</string>
+    <string name="templatecliente_phone">Número telefónico</string>
+    <string name="templatecliente_address">Domicilio</string>
+
+
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_signup">Regístrate</string>
+    <string name="title_activity_addcliente">Añadir cliente</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_nav_clientes">Clientes</string>
+    <string name="action_nav_inicio">Inicio</string>
+    <string name="action_nav_productos">Productos</string>
+    <string name="action_logout">Cerrar sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

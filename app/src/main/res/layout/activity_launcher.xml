@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_launcher"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="@color/colorPrimary"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.luisadrian.proyectointegrador.Launcher">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/bag_large_1"
+        android:id="@+id/img_icon"
+        android:src="@drawable/bag_large_1" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:text="Título"
+        android:layout_width="match_parent"
+        android:textSize="48dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_title" />
+</LinearLayout>
